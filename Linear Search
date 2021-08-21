@@ -12,5 +12,4 @@ void main()
      printf("Number found at index %d",i);
     }
     
-    
 }
