@@ -25,6 +25,5 @@ int main()
     scanf("%d",&num);
     result=binarySearch(a,num,0,size-1);
     printf("Present at %d",result);
-    
     return 0;
 }
