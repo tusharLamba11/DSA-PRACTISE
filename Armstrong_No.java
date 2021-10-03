@@ -24,6 +24,6 @@ public class Solution
         if(y== true)
         System.out.println("Armstrong No");
         else
-            System.out.println("Not 12Armstrong No");
+           System.out.println("Not 12Armstrong No");
     }
 }
