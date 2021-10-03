@@ -14,7 +14,7 @@ void main(){
     
 }
 
-OR
+/*OR
 
 #include <stdio.h>
 
@@ -29,4 +29,4 @@ void main(){
         }
         printf("\n");
     }
-}
+}*/
